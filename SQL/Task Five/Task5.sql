@@ -1,0 +1,25 @@
+--============================================ Part 01 ============================================
+--****Restore ITI Database and then:****
+--1.Create a multi-statements table-valued function that takes 2 integers and returns the values between them.
+--2.Create a table-valued function that takes Student No and returns Department Name with Student full name.
+--3.Create a function that takes an integer which represents the format of the Manager hiring date and displays department name, Manager Name and hiring date with this format.   
+--4.Create multi-statement table-valued function that takes a string
+--a.If string='first name' returns student first name
+--b.If string='last name' returns student last name 
+--c.If string='full name' returns Full Name from student table  
+--**Note: Use “ISNULL” function**
+--5.Create function that takes project number and display all employees in this project (Use MyCompany DB)
+--6.Create a scalar function that takes a date and returns the Month name of that date.
+--7.Create a multi-statements table-valued function that takes 2 integers and returns the values between them.
+--8.Create a table-valued function that takes Student No and returns Department Name with Student full name.
+--9.Create a scalar function that takes Student ID and returns a message to user 
+--a.If first name and Last name are null then display 'First name & last name are null'
+--b.If First name is null then display 'first name is null'
+--c.If Last name is null then display 'last name is null'
+--d.Else display 'First name & last name are not null'
+--10.Create a function that takes an integer which represents the format of the Manager hiring date and displays department name, Manager Name and hiring date with this format.   
+--11.Create multi-statement table-valued function that takes a string
+--a.If string='first name' returns student first name
+--b.If string='last name' returns student last name 
+--c.If string='full name' returns Full Name from student table  (Note: Use “ISNULL” function)
+--12.Create function that takes project number and display all employees in this project (Use MyCompany DB)
