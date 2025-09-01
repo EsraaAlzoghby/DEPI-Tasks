@@ -39,4 +39,3 @@ By completing these tasks, I aim to **enhance my ability to design and build rob
 - Add **real-world mini projects** using C# and SQL Server  
 - Extend to **ASP.NET Core Web Applications**  
 - Practice **Entity Framework Core** and **API Development**
-## 🗂️ Suggested Folder Structure
