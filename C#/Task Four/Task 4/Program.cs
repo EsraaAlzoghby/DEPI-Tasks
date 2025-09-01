@@ -1,4 +1,16 @@
-﻿namespace Task_4
+/*
+Write a C# Console Application that manages student grades using a two-dimensional array.
+The program should:
+Allow the user to enter the number of students and subjects.
+Store each student’s name and grades for all subjects.
+
+Provide a menu with the following options:
+Print the top 3 students based on their average grade.
+Display all student names with their grades.
+Search for a student by name and print their grades.
+Exit the program.
+*/
+namespace Task_4
 {
     //Create a C# Console Application using a two-dimensional array.
     internal class Program
