@@ -1,4 +1,9 @@
-﻿namespace TaskOne
+/*
+Write a C# program that asks the user to enter a username and a password.
+If the username and password are correct, the program should print "Login successful, welcome".
+Otherwise, it should display an error message: "Error: Incorrect UserName Or Password".
+*/
+namespace TaskOne
 {
     internal class Program
     {
