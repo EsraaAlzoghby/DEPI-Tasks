@@ -1,4 +1,9 @@
-﻿namespace TsakTwo
+/*
+Write a C# Console Application that registers a user with a username and password.
+Then, ask the user to log in using the same credentials. 
+If the login information is correct, display a welcome message; otherwise, display a failure message.
+*/
+namespace TsakTwo
 {
     internal class Program
     {
