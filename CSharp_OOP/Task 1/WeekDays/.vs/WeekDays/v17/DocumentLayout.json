@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\.NET\\CSharp_OOP\\Task 1\\WeekDays\\",
+  "WorkspaceRootPath": "F:\\.NET\\CSharp_OOP\\Task 2 - Copy\\WeekDays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5309885-B403-47E9-AB7F-A6F20D361405}|WeekDays\\WeekDays.csproj|f:\\.net\\csharp_oop\\task 1\\weekdays\\weekdays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5309885-B403-47E9-AB7F-A6F20D361405}|WeekDays\\WeekDays.csproj|solutionrelative:weekdays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3831920-53DD-47A5-B2B0-A88F26DC188B}|WeekDays\\WeekDays.csproj|f:\\.net\\csharp_oop\\task 2 - copy\\weekdays\\weekdays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3831920-53DD-47A5-B2B0-A88F26DC188B}|WeekDays\\WeekDays.csproj|solutionrelative:weekdays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 1\\WeekDays\\WeekDays\\Program.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 2 - Copy\\WeekDays\\WeekDays\\Program.cs",
               "RelativeDocumentMoniker": "WeekDays\\Program.cs",
-              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 1\\WeekDays\\WeekDays\\Program.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 2 - Copy\\WeekDays\\WeekDays\\Program.cs",
               "RelativeToolTip": "WeekDays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:24:23.999Z",
+              "WhenOpened": "2025-09-03T13:10:50.557Z",
               "EditorCaption": ""
             }
           ]
