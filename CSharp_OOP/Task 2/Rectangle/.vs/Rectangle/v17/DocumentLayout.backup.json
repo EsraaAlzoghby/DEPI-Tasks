@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET\\CSharp_OOP\\Task 3\\Rectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C027005-2413-424C-AD74-CF0005BB89ED}|Rectangle\\Rectangle.csproj|f:\\.net\\csharp_oop\\task 3\\rectangle\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C027005-2413-424C-AD74-CF0005BB89ED}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C027005-2413-424C-AD74-CF0005BB89ED}|Rectangle\\Rectangle.csproj|f:\\.net\\csharp_oop\\task 3\\rectangle\\rectangle\\rectangle .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C027005-2413-424C-AD74-CF0005BB89ED}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\rectangle .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle .cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 3\\Rectangle\\Rectangle\\Rectangle .cs",
+              "RelativeDocumentMoniker": "Rectangle\\Rectangle .cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 3\\Rectangle\\Rectangle\\Rectangle .cs*",
+              "RelativeToolTip": "Rectangle\\Rectangle .cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:41:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 3\\Rectangle\\Rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Program.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 3\\Rectangle\\Rectangle\\Program.cs*",
+              "RelativeToolTip": "Rectangle\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:34:10.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
