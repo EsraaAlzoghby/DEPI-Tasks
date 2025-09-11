@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\.net\\csharp_oop\\task 3\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\.net\\csharp_oop\\task 3\\librarymanagementsystem\\librarymanagementsystem\\ebook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\ebook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\.net\\csharp_oop\\task 3\\librarymanagementsystem\\librarymanagementsystem\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\.net\\csharp_oop\\task 3\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83223CA8-A510-42F9-9BED-FC48179599A6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintedBook.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\PrintedBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\PrintedBook.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\PrintedBook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\PrintedBook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T18:15:23.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EBook .cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\EBook .cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\EBook .cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\EBook .cs",
+              "RelativeToolTip": "LibraryManagementSystem\\EBook .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T18:14:53.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T18:08:49.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 3\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:03:00.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
