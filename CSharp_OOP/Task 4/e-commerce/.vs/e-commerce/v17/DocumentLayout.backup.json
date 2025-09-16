@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\discount .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\discount .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\usertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\usertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\flatdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\flatdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|f:\\.net\\csharp_oop\\task 4\\e-commerce\\e-commerce\\buyonegetonediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98234CB3-6D88-40F5-87AC-86B71A26071C}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\buyonegetonediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTypes.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\UserTypes.cs",
+              "RelativeDocumentMoniker": "e-commerce\\UserTypes.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\UserTypes.cs",
+              "RelativeToolTip": "e-commerce\\UserTypes.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:27:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\User.cs",
+              "RelativeDocumentMoniker": "e-commerce\\User.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\User.cs",
+              "RelativeToolTip": "e-commerce\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:15:07.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuyOneGetOneDiscount.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\BuyOneGetOneDiscount.cs",
+              "RelativeDocumentMoniker": "e-commerce\\BuyOneGetOneDiscount.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\BuyOneGetOneDiscount.cs",
+              "RelativeToolTip": "e-commerce\\BuyOneGetOneDiscount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:41:54.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlatDiscount.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\FlatDiscount.cs",
+              "RelativeDocumentMoniker": "e-commerce\\FlatDiscount.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\FlatDiscount.cs",
+              "RelativeToolTip": "e-commerce\\FlatDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:41:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PercentageDiscount.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\PercentageDiscount.cs",
+              "RelativeDocumentMoniker": "e-commerce\\PercentageDiscount.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\PercentageDiscount.cs",
+              "RelativeToolTip": "e-commerce\\PercentageDiscount.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:41:17.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Discount .cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\Discount .cs",
+              "RelativeDocumentMoniker": "e-commerce\\Discount .cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\Discount .cs",
+              "RelativeToolTip": "e-commerce\\Discount .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:25:43.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\Program.cs",
+              "RelativeDocumentMoniker": "e-commerce\\Program.cs",
+              "ToolTip": "F:\\.NET\\CSharp_OOP\\Task 4\\e-commerce\\e-commerce\\Program.cs",
+              "RelativeToolTip": "e-commerce\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:58:10.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
