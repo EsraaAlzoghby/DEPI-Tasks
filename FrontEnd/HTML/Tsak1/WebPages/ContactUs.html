@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    .input-group {
+      position: relative;
+      display: inline-block;
+      margin-bottom: 15px;
+    }
+
+    .input-group input,
+    .input-group textarea {
+      padding-right: 25px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+
+    .input-group input {
+      height: 20px;
+    }
+
+    .input-group textarea {
+      height: 80px;
+    }
+
+    .input-group i {
+      position: absolute;
+      right: 5px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: red;
+      font-size: 10px;
+      pointer-events: none; 
+    }
+  </style>
+</head>
+<body>
+  <div style="background-color: rgb(4, 187, 243); margin: 10px; height: 100vh;">
+    <h2 style="margin: 10px; padding-top: 10px;">Contact Us</h2>
+    <div style="text-align: center;">
+      <div style="background-color:rgb(255, 255, 255); margin: 30px; padding: 20px;">
+        <h3>Contact Us. We'll respond quickly to your request.</h3>
+        <div>
+          <form action="">
+            <label for="" style="margin-right: 25px">Looking: </label>
+            <button style="background-color: rgb(70, 156, 0); color: aliceblue;width: 185px;height: 25px; border:none; border-radius: 2px;">Sales</button>
+            <button style="background-color: darkgray; color: black; width: 185px;height: 25px; border:none; border-radius: 2px;">Support</button>
+            <br><br>
+
+            <label for="Name">Name: </label>
+            <div class="input-group">
+              <input type="text" required id="Name" style="margin-left: 40px; width: 350px">
+              <i class="fa-solid fa-star-of-life"></i>
+            </div>
+            <br>
+
+            <label for="email">Email: </label>
+            <div class="input-group">
+              <input type="email" required id="email" style="margin-left: 40px; width: 350px">
+              <i class="fa-solid fa-star-of-life"></i>
+            </div>
+            <br>
+
+            <label for="Phone">Phone: </label>
+            <div class="input-group">
+              <input type="tel" required id="Phone" style="margin-left: 40px; width: 350px">
+              <i class="fa-solid fa-star-of-life"></i>
+            </div>
+            <br>
+
+            <label for="Message" style="display:inline-block;margin-right:25px;">Message:</label>
+            <div class="input-group">
+              <textarea id="Message" name="Message" style="vertical-align: text-top; width: 350px;">Message...</textarea>
+            </div>
+            <br>
+
+            <button type="submit" style="margin-left: 90px; background-color: red; border: none; width:200px; height:40px; color: white;">
+              <i class="fa-solid fa-paper-plane"></i> Contact Us Now
+            </button>
+
+            <div style="margin-left: 1100px;">
+              <img src="../img/contact.jfif" alt="ContactUs" style="border-radius: 50%; width: 100px; height: 100px;">
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
