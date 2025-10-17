@@ -1,0 +1,4 @@
+*.sql linguist-language=SQL
+*.cs linguist-language=C#
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
