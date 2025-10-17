@@ -1,41 +1,37 @@
-# Practice Tasks from DEPI Full Stack .NET Program
+# DEPI Full Stack .NET Program – Practice Repository
 
-This repository contains my **practice tasks** and solutions from the **DEPI Full Stack .NET Program**.  
-The tasks are divided into different categories to cover both **programming** and **database** concepts.
+## Repository Overview
+This repository contains all the practical tasks and exercises completed during the **DEPI Full Stack .NET Program**, organized into three main sections:
 
-## 📂 Contents
+### Front-End
+Includes all web development tasks using:
+- **HTML & CSS:** Building structured, styled, and responsive web pages.  
+- **JavaScript:** Implementing interactivity and logic, including:
+  - **ATM System:** Simulating ATM operations (withdraw, deposit, balance check).  
+  - **CRUD Application:** Managing data dynamically (Create, Read, Update, Delete).
 
-### 1) C# Basics
-- Variables and Data Types  
-- Conditional Statements (if, switch)  
-- Loops (for, while, do-while)  
-- Arrays  
+### Back-End
+Contains **C# practice files** covering key programming and .NET fundamentals, focusing on object-oriented concepts and server-side logic.
 
-### 2) C# Object-Oriented Programming (OOP)
-- Classes and Objects  
-- Constructors and Destructors  
-- Inheritance and Polymorphism  
-- Encapsulation  
-- Structs and Enums  
+### Database
+Includes **SQL Server exercises** such as database design, queries, joins, and stored procedures.
 
-### 3) SQL Server
-- Database Design  
-- DDL (CREATE, ALTER, DROP)  
-- DML (INSERT, UPDATE, DELETE)  
-- Queries with SELECT, WHERE, ORDER BY  
-- Joins (INNER, LEFT, RIGHT, FULL)  
-- Aggregates and Grouping  
-- **Views**  
-- **Stored Procedures**  
-- **Triggers**  
+---
 
-##  Purpose
-The main purpose of this repository is to **practice**, **organize**, and **document** all the tasks covered in the DEPI Full Stack .NET Program.  
-This repository reflects my continuous effort to **strengthen practical skills** in **C# programming**, **SQL Server**, and **full-stack development**, with a special focus on **developing modern, responsive, and user-friendly web applications**.  
+## Contents
+- **C# Basics:** Variables, conditions, loops, and arrays.  
+- **OOP in C#:** Classes, inheritance, polymorphism, and encapsulation.  
+- **SQL Server:** DDL/DML commands, joins, grouping, views, and triggers.  
+- **Front-End:** HTML, CSS, and JavaScript fundamentals with hands-on projects.
 
-By completing these tasks, I aim to **enhance my ability to design and build robust websites and software solutions**, improve coding best practices, and contribute effectively to projects.
+---
 
-##  Future Improvements
-- Add **real-world mini projects** using C# and SQL Server  
-- Extend to **ASP.NET Core Web Applications**  
-- Practice **Entity Framework Core** and **API Development**
+## Purpose
+This repository documents my progress throughout the **DEPI Full Stack .NET Program**.  
+It reflects my continuous effort to build strong skills in:
+- **C# Programming**  
+- **SQL Server**  
+- **Front-End Development (HTML, CSS, JavaScript)**  
+- **Full Stack Integration**
+
+With a focus on creating **modern, responsive, and user-friendly** web applications.
